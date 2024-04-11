@@ -9,12 +9,12 @@ with open("setup-requirements.txt", "r") as req_file:
 setup(
     name="composable_datasets",
     version="0.1.0",
-    author="attophyd",
-    author_email="attophyd@gmail.com",
+    author="simudt",
+    author_email="simudt@gmail.com",
     description="A library for composable shortcuts for HF datasets library.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/attophyd/composable-datasets",
+    url="https://github.com/simudt/composable-datasets",
     packages=find_packages(),
     install_requires=install_requires,
     classifiers=[
