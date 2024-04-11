@@ -14,7 +14,7 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 authors = [
-    {name = "Dogukan Uraz Tuna", email = "simudtai@gmail.com"}
+    {name = "attophyd", email = "attophyd@gmail.com"}
 ]
 requires-python = ">=3.6"
 dependencies = [
